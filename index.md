@@ -4,7 +4,8 @@ layout: homepage
 
 ## Contact
 
-- 📍 Parco Area delle Scienze, 181/A, 43124 Parma, Italy  
+- 📍 Stazione Zoologica Anton Dohrn
+- Via Po' 25c 00189 Roma  (Italy)  
 - 📞 +39 3511545528  
 - 📧 [ali.munsif@szn.it](mailto:ali.munsif@szn.it)  
   
