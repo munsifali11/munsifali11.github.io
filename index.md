@@ -2,15 +2,6 @@
 layout: homepage
 ---
 
-## Contact
-
-- 📍 Stazione Zoologica Anton Dohrn
-     Via Po' 25c 00189 Roma  (Italy)  
-- 📞 +39 3511545528  
-- 📧 [ali.munsif@szn.it](mailto:ali.munsif@szn.it)  
-  
-
----
 ## About Me
 
 I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli**, Italy, specializing in **underwater object detection using AI**. I earned my Ph.D. in Information Technology from the **University of Parma**, Italy, with research focused on **continual learning**, **few-shot learning**, and **Generative Adversarial Networks (GANs)**. I hold multiple distinctions and fellowships, including a **Gold Medal** in my Bachelor's and a fellowship for my M.Phil studies.
