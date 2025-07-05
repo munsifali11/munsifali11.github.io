@@ -2,129 +2,112 @@
 layout: homepage
 ---
 
-# 👋 Munsif Ali
+## Contact
 
-📍 Parco Area delle Scienze, 181/A, 43124 Parma, Italy  
-📞 +39 3511545528  
-📧 [munsif.ali@unipr.it](mailto:munsif.ali@unipr.it)  
-🔗 [LinkedIn](https://linkedin.com/in/munsifali) | [Google Scholar](https://scholar.google.com/)
+- 📍 Parco Area delle Scienze, 181/A, 43124 Parma, Italy  
+- 📞 +39 3511545528  
+- 📧 [ali.munsif@szn.it](mailto:ali.munsif@szn.it)  
+  
+
+---
+## About Me
+
+I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli**, Italy, specializing in **underwater object detection using AI**. I earned my Ph.D. in Information Technology from the **University of Parma**, Italy, with research focused on **continual learning**, **few-shot learning**, and **Generative Adversarial Networks (GANs)**. I hold multiple distinctions and fellowships, including a **Gold Medal** in my Bachelor's and a fellowship for my M.Phil studies.
 
 ---
 
-## 🧠 Summary
 
-I am a Researcher at Stazione Zoologica Anton Dohrn Napoli, Italy, specializing in underwater object detection using AI. I completed my Ph.D. at the University of Parma, Italy, where I focused on continual learning, few-shot learning, and generative models. I hold a Gold Medal in my bachelor's and received a fellowship for academic excellence during my M.Phil.
+## Research Interests
 
----
-
-## 🎓 Education
-
-**🔬 PhD in Information Technology**  
-_University of Parma, Italy_ (Apr 2022 – Apr 2025)  
-- Research in continual and few-shot learning for GANs  
-- Focused on low-rank adaptation and teacher-student techniques
-
-**📘 M.Phil. in Electronics**  
-_Quaid-i-Azam University, Islamabad, Pakistan_ (Feb 2016 – Jun 2018)  
-- CGPA: 4.10/5.00  
-- Research in underwater wireless sensor networks
-
-**📗 M.Sc. in Electronics**  
-_University of Peshawar, Pakistan_ (Sep 2012 – Mar 2015)  
-- Percentage: 76.9% with Honor  
-- Specialized in communication networks and electronics
-
-**📕 B.Sc. in Science**  
-_Abdul Wali Khan University, Pakistan_ (Oct 2010 – Sep 2012)  
-- Percentage: 68.18%  
-- Focused on Mathematics, Electronics, and Physics
+- Continual and Few-Shot Learning  
+- Generative Adversarial Networks (GANs)  
+- Underwater Object Detection and Tracking  
+- Deep Learning and Computer Vision  
+- Wireless Sensor Networks
 
 ---
 
-## 🔬 Research Projects
+## Education
 
-- **Underwater Object Detection (2025–2027)**  
-  AI-based system for tracking and classifying underwater objects
-
-- **Continual Image Generation (Ph.D. research)**  
-  Efficient adapter architectures to prevent forgetting in deep models
-
-- **MATLAB-based Object Detection**  
-  Feature extraction and distance classification during M.Phil.
-
-- **Solar Tracking System**  
-  Designed using 8051 Microcontroller and stepper motors
+- **Ph.D. in Information Technology**, University of Parma, Italy (Apr 2022 – Apr 2025)  
+  _Focus_: Continual and Few-Shot Learning for GANs  
+- **M.Phil in Electronics**, Quaid-i-Azam University, Pakistan (Feb 2016 – Jun 2018)  
+  _Award_: Fellowship | CGPA: 4.10/5.0  
+- **M.Sc. in Electronics**, University of Peshawar, Pakistan (Sep 2012 – Mar 2015)  
+  _Award_: With Honor (76.9%)  
+- **B.Sc.**, Abdul Wali Khan University, Pakistan (Oct 2010 – Sep 2012)  
+  _Award_: Distinction (68.18%)
 
 ---
 
-## 📝 Publications
+## Professional Experience
+
+- **Researcher**, Stazione Zoologica Anton Dohrn Napoli, Italy (May 2025 – May 2027)  
+  Developing real-time underwater object detection and tracking systems using deep learning.
+
+- **International Student Tutor**, University of Parma, Italy (Jun – Oct 2023)  
+  Supporting international student admissions and academic orientation.
+
+- **Assitant Researcher**, Sensor & Communication Lab, University of Peshawar (Aug 2018 – Apr 2022)  
+  Worked on routing algorithms and reliability in underwater wireless sensor networks.
+
+- **Senior Instructor**, Barah Kaho Polytechnic College, Pakistan (Aug 2017 – Jul 2019)  
+  Taught digital/analog electronics, mathematics, and circuit principles.
+
+---
+
+## Selected Publications
 
 {% include publications.md %}
 
 ---
 
-## 👨‍🏫 Experience
+## Projects
 
-**International Student Tutor**  
-_University of Parma, Italy (Jun 2023 – Oct 2023)_  
-Helped international students with admission guidance
+- **Continual Image Generation**  
+  Developed an adapter-based architecture to prevent catastrophic forgetting in continual learning.
 
-**Visiting Researcher**  
-_Sensor & Communication Lab, Univ. of Peshawar (Aug 2018 – Apr 2022)_  
-Worked on mobile sink algorithms and reliable routing for UWSNs
+- **Object Detection in MATLAB**  
+  Implemented feature extraction and distance classifier techniques.
 
-**Senior Instructor**  
-_Barah Kaho Polytechnic College, Islamabad (2017 – 2019)_  
-Taught digital/analog electronics, math, and circuits
+- **Solar Tracking System**  
+  Built a tracking system using 8051 microcontroller and stepper motors for solar energy optimization.
 
 ---
 
-## 🏆 Awards
+## Conferences and Presentations
+
+- 🧾 *Poster*: **ICPR 2024**, India (Remote) — _CFTS-GAN for Continual Few-Shot Learning_  
+- 🔬 *Seminars*: University of Parma (2023, 2024), Annual Ph.D. research defense  
+- 🌍 *Research Mobility*: SZABIST Islamabad (2023–2024)  
+- 🧠 *Courses*: ACDL 2024, DLCV 2023
+
+---
+
+## Awards and Scholarships
 
 - 🇮🇹 Italian Government Ph.D. Scholarship (2022–2025)  
-- 🥇 Gold Medalist – University of Peshawar (2015)  
-- 💻 Laptop Award – Prime Minister Youth Program  
-- 🎓 M.Phil Fellowship – QAU Islamabad  
-- 🏅 Fuji Foundation Talent Scholarship
+- 🎓 M.Phil Fellowship (2016–2018)  
+- 🥇 Distinction Award (B.Sc., 2015)  
+- 💻 PM Laptop Scheme Awardee (2015)  
+- 🎓 Fuji Foundation Talent Scholarship (2015)
 
 ---
 
-## 📜 Certifications
+## Skills
 
-- Microsoft Word & Excel Specialist  
-- Introduction to MATLAB (2017)  
-- Multiple publication certificates  
-- IEEE Reviewer Certification (2020)
-
----
-
-## 🌐 Languages
-
-- **English:** Advanced  
-- **Urdu:** Advanced  
-- **Pashto:** Native  
-- **Italian:** Basic
+- **Languages**: Python, MATLAB, LaTeX, Git, PyTorch  
+- **Techniques**: GANs, Deep Learning, Object Detection, Research Writing  
+- **Languages Spoken**: English (Advanced), Urdu (Advanced), Pashto (Native), Italian (Basic)
 
 ---
 
-## 🛠️ Skills
+## References
 
-- Python, PyTorch, GANs, Deep Learning  
-- Git, LaTeX, Research Writing  
-- MATLAB, Computer Vision  
-- Continual Learning, Few-Shot Learning
+- **Prof. Dr. Massimo Bertozzi**  
+  Dept. of Engineering and Architecture, University of Parma  
+  ✉️ [massimo.bertozzi@unipr.it](mailto:massimo.bertozzi@unipr.it)
 
----
-
-## 👨‍🔬 References
-
-**Prof. Dr. Massimo Bertozzi**  
-University of Parma  
-📧 massimo.bertozzi@unipr.it
-
-**Prof. Dr. Andrea Prati**  
-University of Parma  
-📧 andrea.prati@unipr.it
-.
-
-[Download my CV](assets/files/cv.pdf)
+- **Prof. Dr. Andrea Prati**  
+  Dept. of Engineering and Architecture, University of Parma  
+  ✉️ [andrea.prati@unipr.it](mailto:andrea.prati@unipr.it)
