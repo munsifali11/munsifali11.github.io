@@ -2,6 +2,8 @@
   authors: "Munsif Ali, Leonardo Rossi, and Massimo Bertozzi"
   venue: "Journal (Accepted)"
   year: 2025
+  image: "assets/img/publications/color_gan.jpg"
+
 
 - title: "CFTS-GAN: Continual Few-Shot Teacher Student for Generative Adversarial Networks"
   authors: "Munsif Ali, Leonardo Rossi, and Massimo Bertozzi"
