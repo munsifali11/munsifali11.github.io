@@ -1,3 +1,2 @@
 ### About Me
-Hello there! I'm a passionate machine learning researcher, currently working on my Ph.D. at King Abdullah University of Science and Technology (KAUST). I've been lucky enough to study at some great places - I earned my Master's degree in Computer Science from the University of Tartu and my Bachelor's degree in Communication and Information Engineering from Zewail City of Science and Technology. I'm really into Multimodal Deep Learning, Affective Image Captioning, and Multicultural Modeling, and I've had the chance to share my work at some good conferences and journals. Beyond the research, I like to swim and hoop.
-
+Hello there! I'm a passionate machine learning researcher, currently working on 
