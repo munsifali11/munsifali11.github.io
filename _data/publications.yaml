@@ -1,0 +1,56 @@
+- title: "CoLoR-GAN: Continual Few-Shot Learning with Low-Rank Adaptation in Generative Adversarial Networks"
+  authors: "Munsif Ali, Leonardo Rossi, and Massimo Bertozzi"
+  venue: "Journal (Accepted)"
+  year: 2025
+
+- title: "CFTS-GAN: Continual Few-Shot Teacher Student for Generative Adversarial Networks"
+  authors: "Munsif Ali, Leonardo Rossi, and Massimo Bertozzi"
+  venue: "International Conference on Pattern Recognition (ICPR)"
+  pages: "249–262"
+  publisher: "Springer, Cham"
+  year: 2025
+
+- title: "Energy and Path-Aware-Reliable Routing in Underwater Acoustic Wireless Sensor Networks"
+  authors: "Munsif Ali, Anwar Khan, Massimo Bertozzi, Ubaid Ullah, Saleh M. Altowaijri, Ihsan Ali, and Salman Iqbal"
+  venue: "Underwater Wireless Communications and Networks"
+  volume: 14
+  year: 2022
+  doi: "10.1155/2022/8535244"
+
+- title: "MuLSi-Co: Multilayer Sinks and Cooperation-Based Data Routing Techniques for UA-WSNs"
+  authors: "Munsif Ali, Sahar Shah, Mahnoor Khan, Ihsan Ali, Roobaea Alroobaea, Abdullah M. Baqasah, Muneer Ahmad"
+  venue: "Wireless Communications and Mobile Computing"
+  volume: 2022
+  article_id: 4840481
+  pages: "16 pages"
+  doi: "10.1155/2022/4840481"
+
+- title: "Cooperative, Reliable, and Stability-Aware Routing for Underwater Wireless Sensor Networks"
+  authors: "Munsif Ali, Anwar Khan, Hasan Mahmood, & Naeem Bhatti"
+  venue: "International Journal of Distributed Sensor Networks"
+  year: 2019
+  doi: "10.1177/1550147719854249"
+
+- title: "CoSiM-RPO: Cooperative Routing with Sink Mobility for Reliable and Persistent Operation in UA-WSNs"
+  authors: "Munsif Ali, Anwar Khan, Khursheed Aurangzeb, Ihsan Ali, Hasan Mahmood, Syed Irtaza Haider, Naeem Bhatti"
+  venue: "Sensors"
+  volume: 19
+  issue: 5
+  year: 2019
+  doi: "10.3390/s19051101"
+
+- title: "Cooperative and Delay Minimization Routing Schemes for Dense Underwater Wireless Sensor Networks"
+  authors: "Ubaid Ullah, Anwar Khan, Saleh M. Altowaijri, Ihsan Ali, Atiq Ur Rahman, Vijay Kumar V, Munsif Ali, Hasan Mahmood"
+  venue: "Symmetry"
+  volume: 11
+  issue: 2
+  year: 2019
+  doi: "10.3390/sym11020195"
+
+- title: "Ship Detection and Tracking in Inland Waterways Using Improved YOLOv3 and Deep SORT"
+  authors: "Yang Jie, Lilian Asimwe Leonidas, Farhan Mumtaz, Munsif Ali"
+  venue: "Symmetry"
+  volume: 13
+  issue: 2
+  year: 2021
+  doi: "10.3390/sym13020308"
