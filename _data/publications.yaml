@@ -1,5 +1,3 @@
-main:
-
     - title: "CoLoR-GAN: Continual Few-Shot Learning with Low-Rank Adaptation in Generative Adversarial Networks"
       authors: "Munsif Ali, Leonardo Rossi, and Massimo Bertozzi"
       venue: "Conference (Accepted)"
