@@ -2,7 +2,6 @@
       authors: "Munsif Ali, Leonardo Rossi, and Massimo Bertozzi"
       venue: "Conference (Accepted)"
       year: 2025
-      doi: https://doi.org/10.1007/978-3-031-78389-0_17
       image: "assets/img/publications/color_gan.jpg"
     
     
@@ -12,6 +11,7 @@
       pages: "249–262"
       publisher: "Springer, Cham"
       year: 2025
+      doi: https://doi.org/10.1007/978-3-031-78389-0_17
       image: "assets/img/publications/cfts_gan.PNG"
       
     - title: "Energy and Path-Aware-Reliable Routing in Underwater Acoustic Wireless Sensor Networks"
