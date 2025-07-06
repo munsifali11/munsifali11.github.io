@@ -22,13 +22,13 @@ I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli**, Italy, specializ
 ## Education
 
 - **Ph.D. in Information Technology**, University of Parma, Italy (Apr 2022 – Apr 2025)  
-  _Focus_: Continual and Few-Shot Learning for GANs  
+  _Thesis_: Continual and Few-Shot Learning for GANs  
 - **M.Phil in Electronics**, Quaid-i-Azam University, Pakistan (Feb 2016 – Jun 2018)  
-  _Award_: Fellowship | CGPA: 4.10/5.0  
+  _Award_: Fellowship 
 - **M.Sc. in Electronics**, University of Peshawar, Pakistan (Sep 2012 – Mar 2015)  
-  _Award_: With Honor (76.9%)  
+  _Award_: Distinction  
 - **B.Sc.**, Abdul Wali Khan University, Pakistan (Oct 2010 – Sep 2012)  
-  _Award_: Distinction (68.18%)
+  
 
 ---
 
@@ -37,14 +37,15 @@ I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli**, Italy, specializ
 - **Researcher**, Stazione Zoologica Anton Dohrn Napoli, Italy (May 2025 – May 2027)  
   Developing real-time underwater object detection and tracking systems using deep learning.
 
-- **International Student Tutor**, University of Parma, Italy (Jun – Oct 2023)  
-  Supporting international student admissions and academic orientation.
+- **International Student Tutor**, University of Parma, Italy (Jun – Oct 2023)
+  Support European and international students requesting specific information for admission to a course of study of the University of Parma of the a.y.
+  2023/2024.
 
 - **Assitant Researcher**, Sensor & Communication Lab, University of Peshawar (Aug 2018 – Apr 2022)  
   Worked on routing algorithms and reliability in underwater wireless sensor networks.
 
 - **Senior Instructor**, Barah Kaho Polytechnic College, Pakistan (Aug 2017 – Jul 2019)  
-  Taught digital/analog electronics, mathematics, and circuit principles.
+  Taught digital/analog electronics, mathematics, and principles of electric circuits.
 
 ---
 
@@ -80,7 +81,7 @@ I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli**, Italy, specializ
 
 - 🇮🇹 Italian Government Ph.D. Scholarship (2022–2025)  
 - 🎓 M.Phil Fellowship (2016–2018)  
-- 🥇 Distinction Award (B.Sc., 2015)  
+- 🥇 Distinction Award (M.Sc., 2015)  
 - 💻 PM Laptop Scheme Awardee (2015)  
 - 🎓 Fuji Foundation Talent Scholarship (2015)
 
