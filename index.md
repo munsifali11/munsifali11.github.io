@@ -11,10 +11,6 @@ Bachelor's and a fellowship for my M.Phil. academic performance.
 
 ---
 
-[📄 Download My CV](assets/img/CV -- Ali Munsif.pdf){:target="_blank" download}
-
----
-
 
 ## Research Interests
 
@@ -109,3 +105,8 @@ Bachelor's and a fellowship for my M.Phil. academic performance.
 - **Prof. Dr. Andrea Prati**  
   Dept. of Engineering and Architecture, University of Parma  
   ✉️ [andrea.prati@unipr.it](mailto:andrea.prati@unipr.it)
+
+---
+
+[📄 Download My CV](assets/img/CV -- Ali Munsif.pdf){:target="_blank" download}
+
