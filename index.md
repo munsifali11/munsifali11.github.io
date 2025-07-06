@@ -4,7 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli**, Italy, specializing in **underwater object detection using AI**. I earned my Ph.D. in Information Technology from the **University of Parma**, Italy, with research focused on **continual learning**, **few-shot learning**, and **Generative Adversarial Networks (GANs)**. I hold multiple distinctions and fellowships, including a **Gold Medal** in my Bachelor's and a fellowship for my M.Phil studies.
+I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli - Italy**, specializing in underwater
+object detection using AI. I earned Ph.D. from the University of Parma, Italy, focusing on
+**continual learning**, **few-shot learning**, and **Generative Models**. Awarded a Gold Medal for my
+Bachelor's and a fellowship for my M.Phil. academic performance.
 
 ---
 
@@ -71,7 +74,7 @@ I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli**, Italy, specializ
 - 🧾 *Poster*: **ICPR 2024**, India (Remote) — _CFTS-GAN for Continual Few-Shot Learning_  
 - 🔬 *Seminars*: University of Parma (2023, 2024), Annual Ph.D. research defense  
 - 🌍 *Research Mobility*: SZABIST Islamabad (2023–2024)  
-- 🧠 *Courses*: ACDL 2024, DLCV 2023
+- 🧠 *Summer Schools*: ACDL 2024, DLCV 2023
 
 ---
 
