@@ -35,7 +35,7 @@
   venue: "International Journal of Distributed Sensor Networks"
   year: 2019
   doi: "10.1177/1550147719854249"
-  
+  image: "assets/img/publications/co_rsar.PNG"
 
 - title: "CoSiM-RPO: Cooperative Routing with Sink Mobility for Reliable and Persistent Operation in UA-WSNs"
   authors: "Munsif Ali, Anwar Khan, Khursheed Aurangzeb, Ihsan Ali, Hasan Mahmood, Syed Irtaza Haider, Naeem Bhatti"
@@ -44,6 +44,7 @@
   issue: 5
   year: 2019
   doi: "10.3390/s19051101"
+  
 
 - title: "Cooperative and Delay Minimization Routing Schemes for Dense Underwater Wireless Sensor Networks"
   authors: "Ubaid Ullah, Anwar Khan, Saleh M. Altowaijri, Ihsan Ali, Atiq Ur Rahman, Vijay Kumar V, Munsif Ali, Hasan Mahmood"
