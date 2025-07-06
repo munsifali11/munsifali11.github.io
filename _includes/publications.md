@@ -10,9 +10,13 @@
   <div style="flex: 1; min-width: 250px;">
     {% if publication.doi %}
       {% if publication.doi contains 'doi.org' %}
-        <a href="{{ publication.doi }}" target="_blank" style="font-size: 1.1em; font-weight: bold; color: #0066cc;">{{ publication.title }}</a>
+        <a href="{{ publication.doi }}" target="_blank" style="font-size: 1.1em; font-weight: bold; color: #0066cc;">
+          {{ publication.title }} ↗
+        </a>
       {% else %}
-        <a href="https://doi.org/{{ publication.doi }}" target="_blank" style="font-size: 1.1em; font-weight: bold; color: #0066cc;">{{ publication.title }}</a>
+        <a href="https://doi.org/{{ publication.doi }}" target="_blank" style="font-size: 1.1em; font-weight: bold; color: #0066cc;">
+          {{ publication.title }} ↗
+        </a>
       {% endif %}
     {% else %}
       <strong style="font-size: 1.1em;">{{ publication.title }}</strong>
