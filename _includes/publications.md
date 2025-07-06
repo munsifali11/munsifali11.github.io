@@ -1,30 +1,84 @@
 ## Publications
 
+<style>
+  .pub-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin-bottom: 2.5em;
+    gap: 1.5em;
+  }
+
+  .pub-image {
+    flex: 0 0 220px;
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .pub-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.4s ease;
+    border-radius: 12px;
+  }
+
+  .pub-image:hover img {
+    transform: scale(1.06);
+  }
+
+  .pub-info {
+    flex: 1;
+    min-width: 250px;
+  }
+
+  .pub-title {
+    font-size: 1.15em;
+    font-weight: 600;
+    color: #0066cc;
+    text-decoration: none;
+  }
+
+  .pub-title:hover {
+    text-decoration: underline;
+  }
+
+  .pub-authors {
+    font-size: 0.95em;
+    margin: 0.2em 0;
+  }
+
+  .pub-meta {
+    font-size: 0.9em;
+    color: #555;
+  }
+</style>
+
 {% for publication in site.data.publications %}
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 2em;">
+<div class="pub-container">
   {% if publication.image %}
-  <div style="flex: 0 0 220px; margin-right: 1.5em;">
-    <img src="{{ publication.image }}" alt="thumbnail for {{ publication.title }}" style="width: 220px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
+  <div class="pub-image">
+    <img src="{{ publication.image }}" alt="thumbnail for {{ publication.title }}">
   </div>
   {% endif %}
-  <div style="flex: 1; min-width: 250px;">
+  <div class="pub-info">
     {% if publication.doi %}
-      {% if publication.doi contains 'doi.org' %}
-        <a href="{{ publication.doi }}" target="_blank" style="font-size: 1.1em; font-weight: bold; color: #0066cc;">{{ publication.title }}</a>
-      {% else %}
-        <a href="https://doi.org/{{ publication.doi }}" target="_blank" style="font-size: 1.1em; font-weight: bold; color: #0066cc;">{{ publication.title }}</a>
-      {% endif %}
+      {% assign doi_url = publication.doi contains 'doi.org' | ternary: publication.doi, 'https://doi.org/' | append: publication.doi %}
+      <a href="{{ doi_url }}" target="_blank" class="pub-title">{{ publication.title }} ↗</a>
     {% else %}
-      <strong style="font-size: 1.1em;">{{ publication.title }}</strong>
+      <strong class="pub-title">{{ publication.title }}</strong>
     {% endif %}
-    <br>
-    <span>{{ publication.authors }}</span><br>
-    <em>{{ publication.venue }}</em>
-    {% if publication.volume %}, Vol. {{ publication.volume }}{% endif %}
-    {% if publication.issue %}, No. {{ publication.issue }}{% endif %}
-    {% if publication.pages %}, pp. {{ publication.pages }}{% endif %}
-    {% if publication.article_id %}, Article ID {{ publication.article_id }}{% endif %}
-    , {{ publication.year }}.
+    <div class="pub-authors">{{ publication.authors }}</div>
+    <div class="pub-meta">
+      <em>{{ publication.venue }}</em>
+      {% if publication.volume %}, Vol. {{ publication.volume }}{% endif %}
+      {% if publication.issue %}, No. {{ publication.issue }}{% endif %}
+      {% if publication.pages %}, pp. {{ publication.pages }}{% endif %}
+      {% if publication.article_id %}, Article ID {{ publication.article_id }}{% endif %}
+      , {{ publication.year }}.
+    </div>
   </div>
 </div>
 {% endfor %}
