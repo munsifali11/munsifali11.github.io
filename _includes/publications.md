@@ -63,22 +63,27 @@
     <img src="{{ publication.image }}" alt="thumbnail for {{ publication.title }}">
   </div>
   {% endif %}
-  <div class="pub-info">
-    {% if publication.doi %}
-      {% assign doi_url = publication.doi contains 'doi.org' | ternary: publication.doi, 'https://doi.org/' | append: publication.doi %}
-      <a href="{{ doi_url }}" target="_blank" class="pub-title">{{ publication.title }}</a>
+<div class="pub-info">
+  {% if publication.doi %}
+    {% if publication.doi contains 'doi.org' %}
+      {% assign doi_url = publication.doi %}
     {% else %}
-      <strong class="pub-title">{{ publication.title }}</strong>
+      {% assign doi_url = 'https://doi.org/' | append: publication.doi %}
     {% endif %}
-    <div class="pub-authors">{{ publication.authors }}</div>
-    <div class="pub-meta">
-      <em>{{ publication.venue }}</em>
-      {% if publication.volume %}, Vol. {{ publication.volume }}{% endif %}
-      {% if publication.issue %}, No. {{ publication.issue }}{% endif %}
-      {% if publication.pages %}, pp. {{ publication.pages }}{% endif %}
-      {% if publication.article_id %}, Article ID {{ publication.article_id }}{% endif %}
-      , {{ publication.year }}.
-    </div>
+    <a href="{{ doi_url }}" target="_blank" class="pub-title">{{ publication.title }}</a>
+  {% else %}
+    <strong class="pub-title">{{ publication.title }}</strong>
+  {% endif %}
+  <div class="pub-authors">{{ publication.authors }}</div>
+  <div class="pub-meta">
+    <em>{{ publication.venue }}</em>
+    {% if publication.volume %}, Vol. {{ publication.volume }}{% endif %}
+    {% if publication.issue %}, No. {{ publication.issue }}{% endif %}
+    {% if publication.pages %}, pp. {{ publication.pages }}{% endif %}
+    {% if publication.article_id %}, Article ID {{ publication.article_id }}{% endif %}
+    , {{ publication.year }}.
   </div>
+</div>
+
 </div>
 {% endfor %}
