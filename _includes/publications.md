@@ -66,7 +66,7 @@
   <div class="pub-info">
     {% if publication.doi %}
       {% assign doi_url = publication.doi contains 'doi.org' | ternary: publication.doi, 'https://doi.org/' | append: publication.doi %}
-      <a href="{{ doi_url }}" target="_blank" class="pub-title">{{ publication.title }} </a>
+      <a href="{{ doi_url }}" target="_blank" class="pub-title">{{ publication.title }}</a>
     {% else %}
       <strong class="pub-title">{{ publication.title }}</strong>
     {% endif %}
