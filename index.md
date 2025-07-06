@@ -32,6 +32,10 @@ I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli**, Italy, specializ
 
 ---
 
+
+{% include publications.md %}
+
+---
 ## Professional Experience
 
 - **Researcher**, Stazione Zoologica Anton Dohrn Napoli, Italy (May 2025 – May 2027)  
@@ -46,10 +50,6 @@ I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli**, Italy, specializ
 
 - **Senior Instructor**, Barah Kaho Polytechnic College, Pakistan (Aug 2017 – Jul 2019)  
   Taught digital/analog electronics, mathematics, and principles of electric circuits.
-
----
-
-{% include publications.md %}
 
 ---
 
