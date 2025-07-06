@@ -1,53 +1,16 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+## Publications
 
-<div class="publications">
-<ol class="bibliography">
-
-{% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
+{% for publication in site.data.publications %}
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 2em;">
+  {% if publication.image %}
+  <div style="flex: 0 0 220px; margin-right: 1.5em;">
+    <img src="{{ publication.image }}" alt="thumbnail for {{ publication.title }}" style="width: 220px; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
+  {% endif %}
+  <div style="flex: 1; min-width: 250px;">
+    <strong>{{ publication.authors }}</strong><br>
+    "{{ publication.title }}"<br>
+    <em>{{ publication.venue }}</em>{% if publication.volume %}, Vol. {{ publication.volume }}{% endif %}{% if publication.issue %}, No. {{ publication.issue }}{% endif %}{% if publication.pages %}, pp. {{ publication.pages }}{% endif %}{% if publication.article_id %}, Article ID {{ publication.article_id }}{% endif %}, {{ publication.year }}.{% if publication.doi %} [DOI](https://doi.org/{{ publication.doi }}){% endif %}
   </div>
 </div>
-</li>
-
-<br>
-
 {% endfor %}
-
-</ol>
-</div>
-
