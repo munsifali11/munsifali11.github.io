@@ -28,12 +28,14 @@
   article_id: 4840481
   pages: "16 pages"
   doi: "10.1155/2022/4840481"
+  image: "assets/img/publications/mulsi_co.PNG"
 
 - title: "Cooperative, Reliable, and Stability-Aware Routing for Underwater Wireless Sensor Networks"
   authors: "Munsif Ali, Anwar Khan, Hasan Mahmood, & Naeem Bhatti"
   venue: "International Journal of Distributed Sensor Networks"
   year: 2019
   doi: "10.1177/1550147719854249"
+  
 
 - title: "CoSiM-RPO: Cooperative Routing with Sink Mobility for Reliable and Persistent Operation in UA-WSNs"
   authors: "Munsif Ali, Anwar Khan, Khursheed Aurangzeb, Ihsan Ali, Hasan Mahmood, Syed Irtaza Haider, Naeem Bhatti"
