@@ -11,7 +11,8 @@
   pages: "249–262"
   publisher: "Springer, Cham"
   year: 2025
-
+  image: "assets/img/publications/cfts_gan.png"
+  
 - title: "Energy and Path-Aware-Reliable Routing in Underwater Acoustic Wireless Sensor Networks"
   authors: "Munsif Ali, Anwar Khan, Massimo Bertozzi, Ubaid Ullah, Saleh M. Altowaijri, Ihsan Ali, and Salman Iqbal"
   venue: "Underwater Wireless Communications and Networks"
