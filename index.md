@@ -9,6 +9,8 @@ object detection using AI. I earned Ph.D. from the University of Parma, Italy, f
 **continual learning**, **few-shot learning**, and **Generative Models**. Awarded a Gold Medal for my
 Bachelor's and a fellowship for my M.Phil. academic performance.
 
+---
+
 [📄 Download My CV](assets/img/CV -- Ali Munsif.pdf){:target="_blank" download}
 
 ---
