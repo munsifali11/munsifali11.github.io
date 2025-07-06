@@ -44,7 +44,7 @@
   issue: 5
   year: 2019
   doi: "10.3390/s19051101"
-  
+  image: "assets/img/publications/cosim_rpo.PNG"
 
 - title: "Cooperative and Delay Minimization Routing Schemes for Dense Underwater Wireless Sensor Networks"
   authors: "Ubaid Ullah, Anwar Khan, Saleh M. Altowaijri, Ihsan Ali, Atiq Ur Rahman, Vijay Kumar V, Munsif Ali, Hasan Mahmood"
@@ -53,6 +53,7 @@
   issue: 2
   year: 2019
   doi: "10.3390/sym11020195"
+  image: "assets/img/publications/co_dmr.PNG"
 
 - title: "Ship Detection and Tracking in Inland Waterways Using Improved YOLOv3 and Deep SORT"
   authors: "Yang Jie, Lilian Asimwe Leonidas, Farhan Mumtaz, Munsif Ali"
@@ -61,3 +62,4 @@
   issue: 2
   year: 2021
   doi: "10.3390/sym13020308"
+  image: "assets/img/publications/ship.PNG"
