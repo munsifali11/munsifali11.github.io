@@ -49,8 +49,6 @@ I am a Researcher at **Stazione Zoologica Anton Dohrn Napoli**, Italy, specializ
 
 ---
 
-## Selected Publications
-
 {% include publications.md %}
 
 ---
