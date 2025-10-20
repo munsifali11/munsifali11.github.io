@@ -4,6 +4,7 @@
       year: 2025
       image: "assets/img/publications/color_gan.jpg"
       code: https://github.com/munsifali11/CoLoR-GAN
+      doi: https://www.arxiv.org/pdf/2510.13869
     
     - title: "CFTS-GAN: Continual Few-Shot Teacher Student for Generative Adversarial Networks"
       authors: "Munsif Ali, Leonardo Rossi, and Massimo Bertozzi"
