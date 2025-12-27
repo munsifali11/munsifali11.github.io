@@ -1,3 +1,13 @@
+    - title: "AQUA-Net: Adaptive Frequency Fusion and Illumination Aware Network for Underwater Image Enhancement"
+      authors: "Munsif Ali, Najmul Hassan, Lucia Ventura, Davide Di Bari, Simonepietro Canese"
+      venue: "Preprint ArXiv"
+      year: 2025
+      image: "assets/img/publications/color_gan.jpg"
+      code: https://munsifali11.github.io/AQUA-Net_Project/
+      doi: https://doi.org/10.48550/arXiv.2512.05960
+    
+    
+    
     - title: "CoLoR-GAN: Continual Few-Shot Learning with Low-Rank Adaptation in Generative Adversarial Networks"
       authors: "Munsif Ali, Leonardo Rossi, and Massimo Bertozzi"
       venue: "23rd International Conference on Image Analysis and Processing"
